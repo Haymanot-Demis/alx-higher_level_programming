@@ -1,1 +1,1 @@
-py <file_name>
+py $PYFILE
